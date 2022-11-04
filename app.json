@@ -1,6 +1,5 @@
 {
     "name": "This is Inline Search Bot by @Am_RoBots",
-    "logo": "https://telegra.ph/file/3e9fb6ecc88a98a374c59.jpg",
     "description": "This is Inline Channel Messages Search Bot by @Am_RoBots",
     "keywords": [
         "telegram",
@@ -10,7 +9,7 @@
         "bot"
     ],
     "repository": "https://github.com/8769ANURAG",
-    "website": "https://t.me/MOVIES_ZILAA",
+    "website": "https://telegram.dog/MOVIES_ZILAA",
     "success_url": "https://t.me/sources_cods",
     "env": {
         "API_ID": {
@@ -41,7 +40,7 @@
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
         "UPDATES_CHANNEL": {
-            "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
+            "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -1001669443507",
             "required": false
         },
         "CHANNEL_ID": {
