@@ -1,3 +1,5 @@
+# (c) @AM_ROBOTS
+
 import datetime
 from configs import Config
 from handlers.database import Database
