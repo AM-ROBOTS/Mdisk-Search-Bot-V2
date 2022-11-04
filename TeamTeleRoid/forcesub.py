@@ -1,3 +1,4 @@
+# (c) @AM_ROBOTS
 
 import asyncio
 from configs import Config
